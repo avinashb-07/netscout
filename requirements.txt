@@ -1,0 +1,7 @@
+# NetScout — Python dependencies
+# The tool is built on Python 3.10+ standard library only.
+# No third-party packages are required to run the scanner.
+#
+# Optional: install these for development / testing only
+# pytest>=7.0
+# mypy>=1.0
