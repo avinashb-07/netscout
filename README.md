@@ -1,4 +1,4 @@
-
+<div align="center">
 
 ```
 ███╗   ██╗███████╗████████╗███████╗ ██████╗ ██████╗ ██╗   ██╗████████╗  ██████╗ ██████╗  ██████╗
@@ -31,7 +31,13 @@ NetScout PRO is a fully-featured network security scanner built from the ground 
 It features a 23-entry CVE knowledge base with CVSS-weighted risk scoring, persistent scan history, scan diffing, and optional AI-powered host triage via the Claude API.
 
 ---
+<div align="center">
 
+<img src="assets/report_screenshot.png" alt="NetScout PRO Report" width="780"/>
+</div>
+<br/>
+
+## Legal & Ethical Notice
 ## Features
 
 | Feature | Details |
@@ -240,12 +246,6 @@ python -m pytest tests/ -v
 | **Kali Linux** | Runs natively. Already has Python 3.10+. No extra setup needed. |
 
 ---
-<div align="center">
-
-<img src="assets/report_screenshot.png" alt="NetScout PRO Report" width="780"/>
-
-<br/>
-## Legal & Ethical Notice
 
 > ⚠️ **Only scan networks and systems you own or have explicit written permission to test.**
 > Unauthorised port scanning may be illegal under the Computer Fraud and Abuse Act (CFAA),
