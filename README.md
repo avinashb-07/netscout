@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="assets/report_screenshot.png" alt="NetScout PRO Report" width="780"/>
-
-<br/>
 
 ```
 ███╗   ██╗███████╗████████╗███████╗ ██████╗ ██████╗ ██╗   ██╗████████╗  ██████╗ ██████╗  ██████╗
@@ -93,7 +89,7 @@ netscout/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/netscout.git
+git clone https://github.com/avinashb-07/netscout.git
 cd netscout
 
 # 2. Verify Python version (3.10+ required)
@@ -244,7 +240,11 @@ python -m pytest tests/ -v
 | **Kali Linux** | Runs natively. Already has Python 3.10+. No extra setup needed. |
 
 ---
+<div align="center">
 
+<img src="assets/report_screenshot.png" alt="NetScout PRO Report" width="780"/>
+
+<br/>
 ## Legal & Ethical Notice
 
 > ⚠️ **Only scan networks and systems you own or have explicit written permission to test.**
